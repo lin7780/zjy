@@ -268,7 +268,7 @@ CETV4,http://39.134.136.132:6610/200000001898/460000089800010105/1.m3u8?IASHttpS
 山东教育卫视,http://39.134.136.132:6610/200000001898/460000089800010112/1.m3u8?IASHttpSessionId=OTT
 
 
-🥞  作者自建8M,#genre#
+🥞 测试8M,#genre#
 CCTV16-4K,http://moss.hk3.345888.xyz.cdn.cloudflare.net/moss/bestv.php?id=cctv16hd4k/15000000
 CCTV-4K,http://moss.hk3.345888.xyz.cdn.cloudflare.net/moss/bestv.php?id=cctv4k/15000000
 欢笑剧场4k,http://moss.hk3.345888.xyz.cdn.cloudflare.net/moss/bestv.php?id=hxjc4k/15000000
@@ -361,7 +361,7 @@ CCTV17 8M,http://moss.hk3.345888.xyz.cdn.cloudflare.net/moss/bestv.php?id=cctv17
 劲爆体育 8M,http://moss.hk3.345888.xyz.cdn.cloudflare.net/moss/bestv.php?id=jbtyhd8m/8000000
 金色学堂 8M,http://moss.hk3.345888.xyz.cdn.cloudflare.net/moss/bestv.php?id=jingsepd8m/8000000
 
-🍖 自建IPV6,#genre#
+🍖 测试IPV6,#genre#
 CCTV1,http://moss.hk3.345888.xyz.cdn.cloudflare.net/moss/sxg.php?id=CCTV-1H265_4000
 CCTV2,http://moss.hk3.345888.xyz.cdn.cloudflare.net/moss/sxg.php?id=CCTV-2H265_4000
 CCTV3,http://moss.hk3.345888.xyz.cdn.cloudflare.net/moss/sxg.php?id=CCTV-3H265_4000
@@ -1387,10 +1387,36 @@ CCTV16-4K,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pC
 澳亚卫视,http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=aoya_1500
 
 ☕️  热门推荐,#genre#
-凤凰资讯HD,http://playtimeshift-live.ifeng.com/timeshift/live/06OLEEWQKN4/timeshift.m3u8?txKbps=702&delay=1
-凤凰中文HD,http://playtimeshift-live.ifeng.com:80/timeshift/live/06OLEGEGM4G/timeshift.m3u8?txKbps=702&delay=300
-凤凰资讯,http://183.129.242.178:3333/tsfile/live/1003_1.m3u8
-凤凰中文,http://183.129.242.178:3333/tsfile/live/1001_1.m3u8
+凤凰香港,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226251/2/index.m3u8
+凤凰资讯,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226274/2/index.m3u8
+凤凰中文,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226248/2/index.m3u8
+凤凰中文,http://[2409:8087:3800:20:1000::40a]:8080/hwrr.jx.chinamobile.com:8080/PLTV/3/224/3221226248/index.m3u8
+凤凰资讯,http://[2409:8087:3800:20:1000::80f]:8080/hwrr.jx.chinamobile.com:8080/PLTV/3/224/3221226274/index.m3u8
+凤凰香港,http://[2409:8087:3800:2020:1000::40c]:8080/hwrr.jx.chinamobile.com:8080/PLTV/3/224/3221226251/index.m3u8
+凤凰资讯,http://112.102.214.193:65530/live/fhzx/index.m3u8
+凤凰资讯,http://yuniptvunql.chinayungu.cn:65530/live/fhzx/index.m3u8
+凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.flv
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.flv
+凤凰资讯,http://playtimeshift-live.ifeng.com/timeshift/live/06OLEEWQKN4/timeshift.m3u8?delay=33942
+凤凰中文,http://112.102.214.193:65530/live/fhzw/index.m3u8
+凤凰中文,http://yuniptvunql.chinayungu.cn:65530/live/fhzw/index.m3u8
+凤凰中文,http://123.51.230.108:8515/.m3u8
+凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G.flv
+凤凰资讯,http://123.51.230.108:18580/.m3u8
+凤凰中文,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226248/index.m3u8
+凤凰中文,http://playtimeshift-live.ifeng.com/timeshift/live/06OLEGEGM4G/timeshift.m3u8?delay=1644
+凤凰香港,http://39.135.138.58:18890/PLTV/88888888/224/3221226251/index.m3u8
+凤凰香港,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226251/index.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
+香港卫视,http://107.151.203.111:2209/135/hk.php?id=hkws
+凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
+足球频道,https://nmglive.imfc.cn/5n1r1c/182396.m3u8
+凤凰中文,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226248/index.m3u8
+凤凰资讯,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226274/index.m3u8
+凤凰香港,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226251/index.m3u8
+凤凰中文,http://39.135.138.58:18890/PLTV/88888888/224/3221226248/index.m3u8
+凤凰资讯,http://39.135.138.58:18890/PLTV/88888888/224/3221226274/index.m3u8
 凤凰香港,http://39.135.138.58:18890/PLTV/88888888/224/3221226251/index.m3u8
 中天新闻(切源等几秒),http://123.51.230.124:8535/http/60.251.39.91:8081/hls/78/80/ch63max.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a2092354
